@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But not these files...
+!*/bin/*.dart
+!/.gitignore
+!/readme.md
+# etc...
+
+# ...even if they are in subdirectories
+!*/
